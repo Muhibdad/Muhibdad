@@ -1,7 +1,5 @@
 📌: Student of Computer System Engineering
 
-📌: Front-end Developer
+📌: Full Stack Developer
 
-📌: Learning ReactJS
-
-📌: On the way to Full-Stack Developer
+📌: Learning Web3.0
