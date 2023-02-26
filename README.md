@@ -1,5 +1,7 @@
 📌: Student of Computer System Engineering
 
-📌: Full Stack Developer
+📌: React Developer
+
+📌: MERN Developer
 
 📌: Learning Web3.0
