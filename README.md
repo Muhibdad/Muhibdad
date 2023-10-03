@@ -2,6 +2,3 @@
 
 📌: React Developer
 
-📌: MERN Developer
-
-📌: Learning Web3.0
